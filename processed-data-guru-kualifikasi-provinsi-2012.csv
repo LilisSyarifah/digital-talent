@@ -1,0 +1,409 @@
+kode_provinsi,nama_provinsi,tingkat_pendidikan,kualifikasi_pendidikan_guru,jumlah_guru
+51,"Prov. Bali","SMP","di bawah S1",1187
+51,"Prov. Bali","SMK","di atas atau sama dengan S1",2983
+51,"Prov. Bali","SD","di bawah S1",7486
+51,"Prov. Bali","TK","di bawah S1",3558
+51,"Prov. Bali","SMA","di bawah S1",199
+51,"Prov. Bali","TK","di atas atau sama dengan S1",2190
+51,"Prov. Bali","SD","di atas atau sama dengan S1",17439
+51,"Prov. Bali","SMA","di atas atau sama dengan S1",4830
+51,"Prov. Bali","SLB","di atas atau sama dengan S1",224
+51,"Prov. Bali","SLB","di bawah S1",37
+51,"Prov. Bali","SMP","di atas atau sama dengan S1",9120
+51,"Prov. Bali","SMK","di bawah S1",215
+36,"Prov. Banten","SLB","di bawah S1",76
+36,"Prov. Banten","SMA","di bawah S1",357
+36,"Prov. Banten","SD","di bawah S1",19991
+36,"Prov. Banten","SMA","di atas atau sama dengan S1",6785
+36,"Prov. Banten","SMP","di bawah S1",2014
+36,"Prov. Banten","SD","di atas atau sama dengan S1",35747
+36,"Prov. Banten","TK","di atas atau sama dengan S1",1656
+36,"Prov. Banten","SMK","di atas atau sama dengan S1",4329
+36,"Prov. Banten","SMP","di atas atau sama dengan S1",13450
+36,"Prov. Banten","SMK","di bawah S1",444
+36,"Prov. Banten","SLB","di atas atau sama dengan S1",298
+36,"Prov. Banten","TK","di bawah S1",5724
+17,"Prov. Bengkulu","SMK","di atas atau sama dengan S1",1465
+17,"Prov. Bengkulu","TK","di bawah S1",1464
+17,"Prov. Bengkulu","SMP","di bawah S1",673
+17,"Prov. Bengkulu","SLB","di bawah S1",44
+17,"Prov. Bengkulu","TK","di atas atau sama dengan S1",515
+17,"Prov. Bengkulu","SMP","di atas atau sama dengan S1",5192
+17,"Prov. Bengkulu","SMA","di atas atau sama dengan S1",2851
+17,"Prov. Bengkulu","SMA","di bawah S1",104
+17,"Prov. Bengkulu","SMK","di bawah S1",118
+17,"Prov. Bengkulu","SD","di atas atau sama dengan S1",7413
+17,"Prov. Bengkulu","SLB","di atas atau sama dengan S1",43
+17,"Prov. Bengkulu","SD","di bawah S1",7755
+34,"Prov. D I Yogyakarta","TK","di bawah S1",4315
+34,"Prov. D I Yogyakarta","SD","di bawah S1",6994
+34,"Prov. D I Yogyakarta","SLB","di bawah S1",256
+34,"Prov. D I Yogyakarta","SMK","di bawah S1",454
+34,"Prov. D I Yogyakarta","SMK","di atas atau sama dengan S1",5732
+34,"Prov. D I Yogyakarta","SMA","di atas atau sama dengan S1",4725
+34,"Prov. D I Yogyakarta","SD","di atas atau sama dengan S1",13590
+34,"Prov. D I Yogyakarta","SMP","di bawah S1",1353
+34,"Prov. D I Yogyakarta","TK","di atas atau sama dengan S1",3925
+34,"Prov. D I Yogyakarta","SLB","di atas atau sama dengan S1",789
+34,"Prov. D I Yogyakarta","SMA","di bawah S1",284
+34,"Prov. D I Yogyakarta","SMP","di atas atau sama dengan S1",8319
+31,"Prov. DKI Jakarta","SMA","di atas atau sama dengan S1",10753
+31,"Prov. DKI Jakarta","SMA","di bawah S1",436
+31,"Prov. DKI Jakarta","SLB","di atas atau sama dengan S1",365
+31,"Prov. DKI Jakarta","SD","di bawah S1",8073
+31,"Prov. DKI Jakarta","SD","di atas atau sama dengan S1",29376
+31,"Prov. DKI Jakarta","SMP","di bawah S1",2015
+31,"Prov. DKI Jakarta","SMK","di bawah S1",725
+31,"Prov. DKI Jakarta","SLB","di bawah S1",114
+31,"Prov. DKI Jakarta","TK","di atas atau sama dengan S1",4703
+31,"Prov. DKI Jakarta","TK","di bawah S1",7437
+31,"Prov. DKI Jakarta","SMP","di atas atau sama dengan S1",15734
+31,"Prov. DKI Jakarta","SMK","di atas atau sama dengan S1",9155
+75,"Prov. Gorontalo","SMA","di bawah S1",53
+75,"Prov. Gorontalo","TK","di atas atau sama dengan S1",463
+75,"Prov. Gorontalo","SMK","di atas atau sama dengan S1",895
+75,"Prov. Gorontalo","SMP","di bawah S1",749
+75,"Prov. Gorontalo","SD","di bawah S1",5217
+75,"Prov. Gorontalo","SLB","di bawah S1",10
+75,"Prov. Gorontalo","SMP","di atas atau sama dengan S1",2755
+75,"Prov. Gorontalo","TK","di bawah S1",1990
+75,"Prov. Gorontalo","SLB","di atas atau sama dengan S1",15
+75,"Prov. Gorontalo","SMK","di bawah S1",131
+75,"Prov. Gorontalo","SMA","di atas atau sama dengan S1",1241
+75,"Prov. Gorontalo","SD","di atas atau sama dengan S1",3790
+15,"Prov. Jambi","SMA","di atas atau sama dengan S1",3364
+15,"Prov. Jambi","SMP","di atas atau sama dengan S1",6047
+15,"Prov. Jambi","SMP","di bawah S1",1683
+15,"Prov. Jambi","SLB","di atas atau sama dengan S1",23
+15,"Prov. Jambi","SMK","di bawah S1",145
+15,"Prov. Jambi","SLB","di bawah S1",17
+15,"Prov. Jambi","SD","di atas atau sama dengan S1",8345
+15,"Prov. Jambi","TK","di bawah S1",3066
+15,"Prov. Jambi","SD","di bawah S1",16574
+15,"Prov. Jambi","SMA","di bawah S1",196
+15,"Prov. Jambi","SMK","di atas atau sama dengan S1",1402
+15,"Prov. Jambi","TK","di atas atau sama dengan S1",427
+32,"Prov. Jawa Barat","SD","di bawah S1",71041
+32,"Prov. Jawa Barat","SMK","di bawah S1",1757
+32,"Prov. Jawa Barat","SMA","di bawah S1",1099
+32,"Prov. Jawa Barat","SMP","di bawah S1",6541
+32,"Prov. Jawa Barat","SMA","di atas atau sama dengan S1",23823
+32,"Prov. Jawa Barat","TK","di bawah S1",19311
+32,"Prov. Jawa Barat","SLB","di atas atau sama dengan S1",2080
+32,"Prov. Jawa Barat","SD","di atas atau sama dengan S1",137860
+32,"Prov. Jawa Barat","SMK","di atas atau sama dengan S1",18379
+32,"Prov. Jawa Barat","TK","di atas atau sama dengan S1",8398
+32,"Prov. Jawa Barat","SMP","di atas atau sama dengan S1",55045
+32,"Prov. Jawa Barat","SLB","di bawah S1",730
+33,"Prov. Jawa Tengah","SD","di atas atau sama dengan S1",105925
+33,"Prov. Jawa Tengah","TK","di bawah S1",27976
+33,"Prov. Jawa Tengah","SD","di bawah S1",75220
+33,"Prov. Jawa Tengah","SMK","di atas atau sama dengan S1",21208
+33,"Prov. Jawa Tengah","SMP","di bawah S1",6674
+33,"Prov. Jawa Tengah","SMA","di atas atau sama dengan S1",20412
+33,"Prov. Jawa Tengah","SMP","di atas atau sama dengan S1",54909
+33,"Prov. Jawa Tengah","SMA","di bawah S1",913
+33,"Prov. Jawa Tengah","SLB","di bawah S1",403
+33,"Prov. Jawa Tengah","SMK","di bawah S1",1521
+33,"Prov. Jawa Tengah","TK","di atas atau sama dengan S1",11561
+33,"Prov. Jawa Tengah","SLB","di atas atau sama dengan S1",891
+35,"Prov. Jawa Timur","SD","di bawah S1",63143
+35,"Prov. Jawa Timur","SMA","di bawah S1",847
+35,"Prov. Jawa Timur","SMP","di bawah S1",4999
+35,"Prov. Jawa Timur","SLB","di atas atau sama dengan S1",797
+35,"Prov. Jawa Timur","SLB","di bawah S1",198
+35,"Prov. Jawa Timur","SMA","di atas atau sama dengan S1",27272
+35,"Prov. Jawa Timur","TK","di atas atau sama dengan S1",23977
+35,"Prov. Jawa Timur","SMK","di bawah S1",1176
+35,"Prov. Jawa Timur","SMK","di atas atau sama dengan S1",23237
+35,"Prov. Jawa Timur","SMP","di atas atau sama dengan S1",67069
+35,"Prov. Jawa Timur","TK","di bawah S1",36128
+35,"Prov. Jawa Timur","SD","di atas atau sama dengan S1",154749
+61,"Prov. Kalimantan Barat","SMA","di bawah S1",242
+61,"Prov. Kalimantan Barat","TK","di atas atau sama dengan S1",507
+61,"Prov. Kalimantan Barat","SLB","di atas atau sama dengan S1",39
+61,"Prov. Kalimantan Barat","SMK","di bawah S1",206
+61,"Prov. Kalimantan Barat","SMP","di bawah S1",2444
+61,"Prov. Kalimantan Barat","SMK","di atas atau sama dengan S1",1753
+61,"Prov. Kalimantan Barat","SMA","di atas atau sama dengan S1",3558
+61,"Prov. Kalimantan Barat","SD","di bawah S1",22037
+61,"Prov. Kalimantan Barat","SD","di atas atau sama dengan S1",10427
+61,"Prov. Kalimantan Barat","SLB","di bawah S1",25
+61,"Prov. Kalimantan Barat","TK","di bawah S1",2271
+61,"Prov. Kalimantan Barat","SMP","di atas atau sama dengan S1",6184
+63,"Prov. Kalimantan Selatan","TK","di bawah S1",5811
+63,"Prov. Kalimantan Selatan","SMK","di atas atau sama dengan S1",1991
+63,"Prov. Kalimantan Selatan","TK","di atas atau sama dengan S1",1950
+63,"Prov. Kalimantan Selatan","SMA","di bawah S1",193
+63,"Prov. Kalimantan Selatan","SLB","di atas atau sama dengan S1",71
+63,"Prov. Kalimantan Selatan","SD","di atas atau sama dengan S1",15071
+63,"Prov. Kalimantan Selatan","SMA","di atas atau sama dengan S1",3279
+63,"Prov. Kalimantan Selatan","SMP","di atas atau sama dengan S1",7522
+63,"Prov. Kalimantan Selatan","SLB","di bawah S1",18
+63,"Prov. Kalimantan Selatan","SMP","di bawah S1",1028
+63,"Prov. Kalimantan Selatan","SD","di bawah S1",16281
+63,"Prov. Kalimantan Selatan","SMK","di bawah S1",181
+62,"Prov. Kalimantan Tengah","SMA","di bawah S1",205
+62,"Prov. Kalimantan Tengah","SLB","di bawah S1",17
+62,"Prov. Kalimantan Tengah","SD","di bawah S1",12761
+62,"Prov. Kalimantan Tengah","SMK","di bawah S1",133
+62,"Prov. Kalimantan Tengah","TK","di atas atau sama dengan S1",825
+62,"Prov. Kalimantan Tengah","SMK","di atas atau sama dengan S1",1569
+62,"Prov. Kalimantan Tengah","SMA","di atas atau sama dengan S1",3282
+62,"Prov. Kalimantan Tengah","SD","di atas atau sama dengan S1",11156
+62,"Prov. Kalimantan Tengah","TK","di bawah S1",3731
+62,"Prov. Kalimantan Tengah","SLB","di atas atau sama dengan S1",51
+62,"Prov. Kalimantan Tengah","SMP","di atas atau sama dengan S1",5858
+62,"Prov. Kalimantan Tengah","SMP","di bawah S1",970
+64,"Prov. Kalimantan Timur","SMK","di bawah S1",332
+64,"Prov. Kalimantan Timur","SLB","di bawah S1",28
+64,"Prov. Kalimantan Timur","SMP","di atas atau sama dengan S1",8283
+64,"Prov. Kalimantan Timur","TK","di bawah S1",4381
+64,"Prov. Kalimantan Timur","TK","di atas atau sama dengan S1",1191
+64,"Prov. Kalimantan Timur","SMK","di atas atau sama dengan S1",3043
+64,"Prov. Kalimantan Timur","SMA","di atas atau sama dengan S1",3891
+64,"Prov. Kalimantan Timur","SMA","di bawah S1",217
+64,"Prov. Kalimantan Timur","SMP","di bawah S1",1234
+64,"Prov. Kalimantan Timur","SD","di bawah S1",14185
+64,"Prov. Kalimantan Timur","SD","di atas atau sama dengan S1",14253
+64,"Prov. Kalimantan Timur","SLB","di atas atau sama dengan S1",123
+19,"Prov. Kepulauan Bangka Belitung","SD","di atas atau sama dengan S1",3152
+19,"Prov. Kepulauan Bangka Belitung","SD","di bawah S1",5968
+19,"Prov. Kepulauan Bangka Belitung","TK","di bawah S1",934
+19,"Prov. Kepulauan Bangka Belitung","SMA","di atas atau sama dengan S1",1240
+19,"Prov. Kepulauan Bangka Belitung","SMK","di atas atau sama dengan S1",892
+19,"Prov. Kepulauan Bangka Belitung","SMP","di atas atau sama dengan S1",2029
+19,"Prov. Kepulauan Bangka Belitung","SMP","di bawah S1",682
+19,"Prov. Kepulauan Bangka Belitung","SMK","di bawah S1",234
+19,"Prov. Kepulauan Bangka Belitung","SMA","di bawah S1",187
+19,"Prov. Kepulauan Bangka Belitung","TK","di atas atau sama dengan S1",203
+19,"Prov. Kepulauan Bangka Belitung","SLB","di atas atau sama dengan S1",42
+19,"Prov. Kepulauan Bangka Belitung","SLB","di bawah S1",62
+21,"Prov. Kepulauan Riau","SMK","di atas atau sama dengan S1",906
+21,"Prov. Kepulauan Riau","SLB","di bawah S1",68
+21,"Prov. Kepulauan Riau","SMA","di atas atau sama dengan S1",1653
+21,"Prov. Kepulauan Riau","SMA","di bawah S1",100
+21,"Prov. Kepulauan Riau","SD","di bawah S1",5366
+21,"Prov. Kepulauan Riau","TK","di bawah S1",1640
+21,"Prov. Kepulauan Riau","SD","di atas atau sama dengan S1",4815
+21,"Prov. Kepulauan Riau","SMP","di bawah S1",682
+21,"Prov. Kepulauan Riau","SLB","di atas atau sama dengan S1",44
+21,"Prov. Kepulauan Riau","TK","di atas atau sama dengan S1",315
+21,"Prov. Kepulauan Riau","SMK","di bawah S1",131
+21,"Prov. Kepulauan Riau","SMP","di atas atau sama dengan S1",2598
+18,"Prov. Lampung","SMK","di atas atau sama dengan S1",4024
+18,"Prov. Lampung","SLB","di atas atau sama dengan S1",150
+18,"Prov. Lampung","SMA","di atas atau sama dengan S1",7831
+18,"Prov. Lampung","SMP","di atas atau sama dengan S1",14293
+18,"Prov. Lampung","TK","di bawah S1",7320
+18,"Prov. Lampung","SLB","di bawah S1",52
+18,"Prov. Lampung","SD","di atas atau sama dengan S1",23909
+18,"Prov. Lampung","SMA","di bawah S1",743
+18,"Prov. Lampung","SMP","di bawah S1",4508
+18,"Prov. Lampung","SMK","di bawah S1",644
+18,"Prov. Lampung","SD","di bawah S1",34719
+18,"Prov. Lampung","TK","di atas atau sama dengan S1",1808
+81,"Prov. Maluku","TK","di bawah S1",1245
+81,"Prov. Maluku","TK","di atas atau sama dengan S1",62
+81,"Prov. Maluku","SMA","di atas atau sama dengan S1",3136
+81,"Prov. Maluku","SMA","di bawah S1",529
+81,"Prov. Maluku","SMP","di bawah S1",3255
+81,"Prov. Maluku","SLB","di bawah S1",25
+81,"Prov. Maluku","SD","di atas atau sama dengan S1",3205
+81,"Prov. Maluku","SD","di bawah S1",13810
+81,"Prov. Maluku","SMK","di atas atau sama dengan S1",1041
+81,"Prov. Maluku","SLB","di atas atau sama dengan S1",19
+81,"Prov. Maluku","SMK","di bawah S1",305
+81,"Prov. Maluku","SMP","di atas atau sama dengan S1",2834
+82,"Prov. Maluku Utara","SMP","di atas atau sama dengan S1",2484
+82,"Prov. Maluku Utara","SD","di atas atau sama dengan S1",1534
+82,"Prov. Maluku Utara","SMA","di bawah S1",124
+82,"Prov. Maluku Utara","SLB","di atas atau sama dengan S1",17
+82,"Prov. Maluku Utara","SMK","di bawah S1",97
+82,"Prov. Maluku Utara","TK","di atas atau sama dengan S1",73
+82,"Prov. Maluku Utara","SMP","di bawah S1",657
+82,"Prov. Maluku Utara","SMA","di atas atau sama dengan S1",1805
+82,"Prov. Maluku Utara","SMK","di atas atau sama dengan S1",724
+82,"Prov. Maluku Utara","SD","di bawah S1",7354
+82,"Prov. Maluku Utara","TK","di bawah S1",1082
+82,"Prov. Maluku Utara","SLB","di bawah S1",27
+11,"Prov. Nanggroe Aceh Darussalam","SMP","di bawah S1",4227
+11,"Prov. Nanggroe Aceh Darussalam","SMP","di atas atau sama dengan S1",13544
+11,"Prov. Nanggroe Aceh Darussalam","TK","di atas atau sama dengan S1",1124
+11,"Prov. Nanggroe Aceh Darussalam","SMA","di atas atau sama dengan S1",10246
+11,"Prov. Nanggroe Aceh Darussalam","SD","di bawah S1",31481
+11,"Prov. Nanggroe Aceh Darussalam","SD","di atas atau sama dengan S1",15939
+11,"Prov. Nanggroe Aceh Darussalam","TK","di bawah S1",7108
+11,"Prov. Nanggroe Aceh Darussalam","SMA","di bawah S1",722
+11,"Prov. Nanggroe Aceh Darussalam","SMK","di bawah S1",358
+11,"Prov. Nanggroe Aceh Darussalam","SLB","di atas atau sama dengan S1",28
+11,"Prov. Nanggroe Aceh Darussalam","SMK","di atas atau sama dengan S1",3257
+11,"Prov. Nanggroe Aceh Darussalam","SLB","di bawah S1",42
+,"Prov. Nasional","SMA","di atas atau sama dengan S1",222860
+,"Prov. Nasional","SMA","di bawah S1",13048
+,"Prov. Nasional","SMK","di atas atau sama dengan S1",145833
+,"Prov. Nasional","SLB","di atas atau sama dengan S1",7227
+,"Prov. Nasional","SD","di bawah S1",729281
+,"Prov. Nasional","SMP","di bawah S1",79434
+,"Prov. Nasional","TK","di bawah S1",196112
+,"Prov. Nasional","SMP","di atas atau sama dengan S1",434397
+,"Prov. Nasional","SD","di atas atau sama dengan S1",820995
+,"Prov. Nasional","SMK","di bawah S1",13349
+,"Prov. Nasional","SLB","di bawah S1",2856
+,"Prov. Nasional","TK","di atas atau sama dengan S1",78987
+52,"Prov. Nusa Tenggara Barat","TK","di bawah S1",3408
+52,"Prov. Nusa Tenggara Barat","SMK","di atas atau sama dengan S1",2245
+52,"Prov. Nusa Tenggara Barat","SLB","di bawah S1",76
+52,"Prov. Nusa Tenggara Barat","SD","di bawah S1",16194
+52,"Prov. Nusa Tenggara Barat","SMP","di bawah S1",1356
+52,"Prov. Nusa Tenggara Barat","SMA","di atas atau sama dengan S1",4530
+52,"Prov. Nusa Tenggara Barat","SD","di atas atau sama dengan S1",17337
+52,"Prov. Nusa Tenggara Barat","SLB","di atas atau sama dengan S1",77
+52,"Prov. Nusa Tenggara Barat","SMK","di bawah S1",145
+52,"Prov. Nusa Tenggara Barat","SMP","di atas atau sama dengan S1",8268
+52,"Prov. Nusa Tenggara Barat","SMA","di bawah S1",174
+52,"Prov. Nusa Tenggara Barat","TK","di atas atau sama dengan S1",1006
+53,"Prov. Nusa Tenggara Timur","SLB","di bawah S1",94
+53,"Prov. Nusa Tenggara Timur","SMA","di bawah S1",593
+53,"Prov. Nusa Tenggara Timur","SMP","di atas atau sama dengan S1",7166
+53,"Prov. Nusa Tenggara Timur","SMA","di atas atau sama dengan S1",4600
+53,"Prov. Nusa Tenggara Timur","SD","di bawah S1",36073
+53,"Prov. Nusa Tenggara Timur","TK","di bawah S1",2961
+53,"Prov. Nusa Tenggara Timur","TK","di atas atau sama dengan S1",281
+53,"Prov. Nusa Tenggara Timur","SMP","di bawah S1",4582
+53,"Prov. Nusa Tenggara Timur","SMK","di bawah S1",460
+53,"Prov. Nusa Tenggara Timur","SLB","di atas atau sama dengan S1",50
+53,"Prov. Nusa Tenggara Timur","SD","di atas atau sama dengan S1",6208
+53,"Prov. Nusa Tenggara Timur","SMK","di atas atau sama dengan S1",2075
+94,"Prov. Papua","SMA","di bawah S1",185
+94,"Prov. Papua","SMK","di atas atau sama dengan S1",1507
+94,"Prov. Papua","TK","di bawah S1",1380
+94,"Prov. Papua","SD","di bawah S1",10286
+94,"Prov. Papua","SD","di atas atau sama dengan S1",2882
+94,"Prov. Papua","SMA","di atas atau sama dengan S1",2601
+94,"Prov. Papua","SMK","di bawah S1",167
+94,"Prov. Papua","SMP","di atas atau sama dengan S1",3792
+94,"Prov. Papua","SLB","di atas atau sama dengan S1",29
+94,"Prov. Papua","TK","di atas atau sama dengan S1",225
+94,"Prov. Papua","SLB","di bawah S1",9
+94,"Prov. Papua","SMP","di bawah S1",1293
+91,"Prov. Papua Barat","SMK","di bawah S1",43
+91,"Prov. Papua Barat","SMA","di bawah S1",61
+91,"Prov. Papua Barat","SMA","di atas atau sama dengan S1",1145
+91,"Prov. Papua Barat","SMP","di bawah S1",450
+91,"Prov. Papua Barat","SMK","di atas atau sama dengan S1",518
+91,"Prov. Papua Barat","SLB","di atas atau sama dengan S1",
+91,"Prov. Papua Barat","SMP","di atas atau sama dengan S1",1686
+91,"Prov. Papua Barat","TK","di bawah S1",525
+91,"Prov. Papua Barat","SLB","di bawah S1",
+91,"Prov. Papua Barat","SD","di atas atau sama dengan S1",1469
+91,"Prov. Papua Barat","TK","di atas atau sama dengan S1",124
+91,"Prov. Papua Barat","SD","di bawah S1",3894
+14,"Prov. Riau","SMK","di bawah S1",311
+14,"Prov. Riau","SMA","di atas atau sama dengan S1",7074
+14,"Prov. Riau","SMP","di bawah S1",3002
+14,"Prov. Riau","SLB","di atas atau sama dengan S1",109
+14,"Prov. Riau","TK","di atas atau sama dengan S1",1170
+14,"Prov. Riau","SD","di atas atau sama dengan S1",20588
+14,"Prov. Riau","SD","di bawah S1",23026
+14,"Prov. Riau","SMK","di atas atau sama dengan S1",3211
+14,"Prov. Riau","TK","di bawah S1",5907
+14,"Prov. Riau","SMP","di atas atau sama dengan S1",10857
+14,"Prov. Riau","SLB","di bawah S1",29
+14,"Prov. Riau","SMA","di bawah S1",506
+76,"Prov. Sulawesi Barat","SMP","di bawah S1",332
+76,"Prov. Sulawesi Barat","SLB","di bawah S1",7
+76,"Prov. Sulawesi Barat","SMP","di atas atau sama dengan S1",2786
+76,"Prov. Sulawesi Barat","SMK","di bawah S1",54
+76,"Prov. Sulawesi Barat","SMK","di atas atau sama dengan S1",682
+76,"Prov. Sulawesi Barat","SLB","di atas atau sama dengan S1",21
+76,"Prov. Sulawesi Barat","TK","di atas atau sama dengan S1",438
+76,"Prov. Sulawesi Barat","SD","di atas atau sama dengan S1",5225
+76,"Prov. Sulawesi Barat","SMA","di atas atau sama dengan S1",1071
+76,"Prov. Sulawesi Barat","TK","di bawah S1",1379
+76,"Prov. Sulawesi Barat","SMA","di bawah S1",66
+76,"Prov. Sulawesi Barat","SD","di bawah S1",6106
+73,"Prov. Sulawesi Selatan","SMP","di atas atau sama dengan S1",20506
+73,"Prov. Sulawesi Selatan","SMK","di bawah S1",265
+73,"Prov. Sulawesi Selatan","SMP","di bawah S1",2524
+73,"Prov. Sulawesi Selatan","SLB","di atas atau sama dengan S1",232
+73,"Prov. Sulawesi Selatan","TK","di atas atau sama dengan S1",4089
+73,"Prov. Sulawesi Selatan","SMA","di bawah S1",396
+73,"Prov. Sulawesi Selatan","SD","di atas atau sama dengan S1",39447
+73,"Prov. Sulawesi Selatan","SLB","di bawah S1",94
+73,"Prov. Sulawesi Selatan","SMK","di atas atau sama dengan S1",5244
+73,"Prov. Sulawesi Selatan","TK","di bawah S1",8073
+73,"Prov. Sulawesi Selatan","SMA","di atas atau sama dengan S1",10884
+73,"Prov. Sulawesi Selatan","SD","di bawah S1",25846
+72,"Prov. Sulawesi Tengah","TK","di atas atau sama dengan S1",714
+72,"Prov. Sulawesi Tengah","SMK","di bawah S1",104
+72,"Prov. Sulawesi Tengah","SLB","di atas atau sama dengan S1",43
+72,"Prov. Sulawesi Tengah","SD","di atas atau sama dengan S1",8283
+72,"Prov. Sulawesi Tengah","SMA","di bawah S1",114
+72,"Prov. Sulawesi Tengah","SD","di bawah S1",16502
+72,"Prov. Sulawesi Tengah","TK","di bawah S1",3273
+72,"Prov. Sulawesi Tengah","SMK","di atas atau sama dengan S1",1677
+72,"Prov. Sulawesi Tengah","SLB","di bawah S1",19
+72,"Prov. Sulawesi Tengah","SMP","di bawah S1",784
+72,"Prov. Sulawesi Tengah","SMA","di atas atau sama dengan S1",2957
+72,"Prov. Sulawesi Tengah","SMP","di atas atau sama dengan S1",6115
+74,"Prov. Sulawesi Tenggara","SMP","di atas atau sama dengan S1",6848
+74,"Prov. Sulawesi Tenggara","SMP","di bawah S1",1163
+74,"Prov. Sulawesi Tenggara","SLB","di atas atau sama dengan S1",59
+74,"Prov. Sulawesi Tenggara","SLB","di bawah S1",28
+74,"Prov. Sulawesi Tenggara","SMA","di atas atau sama dengan S1",4251
+74,"Prov. Sulawesi Tenggara","SD","di bawah S1",15860
+74,"Prov. Sulawesi Tenggara","TK","di atas atau sama dengan S1",362
+74,"Prov. Sulawesi Tenggara","TK","di bawah S1",4439
+74,"Prov. Sulawesi Tenggara","SD","di atas atau sama dengan S1",8128
+74,"Prov. Sulawesi Tenggara","SMA","di bawah S1",235
+74,"Prov. Sulawesi Tenggara","SMK","di bawah S1",114
+74,"Prov. Sulawesi Tenggara","SMK","di atas atau sama dengan S1",1423
+71,"Prov. Sulawesi Utara","SMA","di bawah S1",257
+71,"Prov. Sulawesi Utara","TK","di atas atau sama dengan S1",597
+71,"Prov. Sulawesi Utara","SD","di atas atau sama dengan S1",6756
+71,"Prov. Sulawesi Utara","SMP","di atas atau sama dengan S1",5527
+71,"Prov. Sulawesi Utara","SMP","di bawah S1",2568
+71,"Prov. Sulawesi Utara","SLB","di bawah S1",20
+71,"Prov. Sulawesi Utara","SLB","di atas atau sama dengan S1",72
+71,"Prov. Sulawesi Utara","SMK","di atas atau sama dengan S1",1795
+71,"Prov. Sulawesi Utara","TK","di bawah S1",3278
+71,"Prov. Sulawesi Utara","SMA","di atas atau sama dengan S1",3334
+71,"Prov. Sulawesi Utara","SMK","di bawah S1",231
+71,"Prov. Sulawesi Utara","SD","di bawah S1",12383
+13,"Prov. Sumatera Barat","SMK","di bawah S1",362
+13,"Prov. Sumatera Barat","SMA","di bawah S1",569
+13,"Prov. Sumatera Barat","SMP","di bawah S1",3322
+13,"Prov. Sumatera Barat","SMP","di atas atau sama dengan S1",12877
+13,"Prov. Sumatera Barat","SMK","di atas atau sama dengan S1",4515
+13,"Prov. Sumatera Barat","SD","di bawah S1",21975
+13,"Prov. Sumatera Barat","SD","di atas atau sama dengan S1",21393
+13,"Prov. Sumatera Barat","TK","di atas atau sama dengan S1",1367
+13,"Prov. Sumatera Barat","SLB","di bawah S1",162
+13,"Prov. Sumatera Barat","TK","di bawah S1",5797
+13,"Prov. Sumatera Barat","SMA","di atas atau sama dengan S1",8410
+13,"Prov. Sumatera Barat","SLB","di atas atau sama dengan S1",285
+16,"Prov. Sumatera Selatan","TK","di atas atau sama dengan S1",1021
+16,"Prov. Sumatera Selatan","SLB","di bawah S1",21
+16,"Prov. Sumatera Selatan","SMK","di atas atau sama dengan S1",3263
+16,"Prov. Sumatera Selatan","SMP","di bawah S1",3277
+16,"Prov. Sumatera Selatan","SMA","di bawah S1",571
+16,"Prov. Sumatera Selatan","SMP","di atas atau sama dengan S1",15687
+16,"Prov. Sumatera Selatan","SMK","di bawah S1",448
+16,"Prov. Sumatera Selatan","SMA","di atas atau sama dengan S1",9746
+16,"Prov. Sumatera Selatan","SD","di atas atau sama dengan S1",22619
+16,"Prov. Sumatera Selatan","SLB","di atas atau sama dengan S1",30
+16,"Prov. Sumatera Selatan","SD","di bawah S1",36557
+16,"Prov. Sumatera Selatan","TK","di bawah S1",4469
+12,"Prov. Sumatera Utara","TK","di bawah S1",4731
+12,"Prov. Sumatera Utara","SMK","di atas atau sama dengan S1",9693
+12,"Prov. Sumatera Utara","SLB","di bawah S1",48
+12,"Prov. Sumatera Utara","TK","di atas atau sama dengan S1",1720
+12,"Prov. Sumatera Utara","SMA","di atas atau sama dengan S1",16280
+12,"Prov. Sumatera Utara","SD","di atas atau sama dengan S1",42965
+12,"Prov. Sumatera Utara","SMA","di bawah S1",1571
+12,"Prov. Sumatera Utara","SMK","di bawah S1",1338
+12,"Prov. Sumatera Utara","SMP","di atas atau sama dengan S1",29013
+12,"Prov. Sumatera Utara","SLB","di atas atau sama dengan S1",111
+12,"Prov. Sumatera Utara","SMP","di bawah S1",7206
+12,"Prov. Sumatera Utara","SD","di bawah S1",59123
